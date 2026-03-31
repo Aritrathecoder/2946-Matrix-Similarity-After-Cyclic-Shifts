@@ -38,7 +38,8 @@ Constraints:
 
 1 <= n == lcp.length == lcp[i].length <= 1000
 0 <= lcp[i][j] <= n
-<img width="1643" height="966" alt="image" src="https://github.com/user-attachments/assets/b92326dd-0b5c-4f19-a84d-b15d5eebd196" />
+
+<img width="1643" height="966" alt="Screenshot 2026-03-31 235811" src="https://github.com/user-attachments/assets/ea58f17a-2ca3-48d8-85dc-6a0f3fe204ee" />
 
 
 ## 💡 Approach
